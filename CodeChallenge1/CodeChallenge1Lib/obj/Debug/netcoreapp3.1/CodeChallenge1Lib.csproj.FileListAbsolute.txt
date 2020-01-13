@@ -1,0 +1,8 @@
+C:\Revature\Rodney-Canlas-code-challenge-1\CodeChallenge1\CodeChallenge1Lib\bin\Debug\netcoreapp3.1\CodeChallenge1Lib.deps.json
+C:\Revature\Rodney-Canlas-code-challenge-1\CodeChallenge1\CodeChallenge1Lib\bin\Debug\netcoreapp3.1\CodeChallenge1Lib.dll
+C:\Revature\Rodney-Canlas-code-challenge-1\CodeChallenge1\CodeChallenge1Lib\bin\Debug\netcoreapp3.1\CodeChallenge1Lib.pdb
+C:\Revature\Rodney-Canlas-code-challenge-1\CodeChallenge1\CodeChallenge1Lib\obj\Debug\netcoreapp3.1\CodeChallenge1Lib.csprojAssemblyReference.cache
+C:\Revature\Rodney-Canlas-code-challenge-1\CodeChallenge1\CodeChallenge1Lib\obj\Debug\netcoreapp3.1\CodeChallenge1Lib.AssemblyInfoInputs.cache
+C:\Revature\Rodney-Canlas-code-challenge-1\CodeChallenge1\CodeChallenge1Lib\obj\Debug\netcoreapp3.1\CodeChallenge1Lib.AssemblyInfo.cs
+C:\Revature\Rodney-Canlas-code-challenge-1\CodeChallenge1\CodeChallenge1Lib\obj\Debug\netcoreapp3.1\CodeChallenge1Lib.dll
+C:\Revature\Rodney-Canlas-code-challenge-1\CodeChallenge1\CodeChallenge1Lib\obj\Debug\netcoreapp3.1\CodeChallenge1Lib.pdb

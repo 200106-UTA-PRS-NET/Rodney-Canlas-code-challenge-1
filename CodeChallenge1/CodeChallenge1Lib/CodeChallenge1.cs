@@ -5,6 +5,7 @@ namespace CodeChallenge1Lib
 {
     public class CodeChallenge1
     {
+        //The method decides if the given string STR is a palindrome.
         public bool IsPalindrome(string str)
         {
             string allLowerCase = str.ToLower();

@@ -11,15 +11,22 @@ namespace CodeChallenge1Test
         [TestMethod]
         public void TestIsPalindrome()
         {
-            string str1 = "nurses run";
-            string str2 = "racecaR";
-            string str3 = "1221";
-            string str4 = "never odd, or even";
+            string strTrue1 = "nurses run";
+            string strTrue2 = "racecaR";
+            string strTrue3 = "1221";
+            string strTrue4 = "never odd, or even";
 
-            Assert.AreEqual(true, codeChallenge.IsPalindrome(str1));
-            Assert.AreEqual(true, codeChallenge.IsPalindrome(str2));
-            Assert.AreEqual(true, codeChallenge.IsPalindrome(str3));
-            Assert.AreEqual(true, codeChallenge.IsPalindrome(str4));
+            Assert.AreEqual(true, codeChallenge.IsPalindrome(strTrue1));
+            Assert.AreEqual(true, codeChallenge.IsPalindrome(strTrue2));
+            Assert.AreEqual(true, codeChallenge.IsPalindrome(strTrue3));
+            Assert.AreEqual(true, codeChallenge.IsPalindrome(strTrue4));
+
+            string strFalse1 = "one two one";
+            string strFalse2 = "123abccba123";
+
+            Assert.AreEqual(false, codeChallenge.IsPalindrome(strFalse1));
+            Assert.AreEqual(false, codeChallenge.IsPalindrome(strFalse1));
+
         }
     }
 }

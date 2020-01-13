@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29613.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeChallenge1Lib", "CodeChallenge1Lib\CodeChallenge1Lib.csproj", "{EB3BCA6E-9946-4B1D-9B40-C02D413DA5B6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodeChallenge1Lib", "CodeChallenge1Lib\CodeChallenge1Lib.csproj", "{EB3BCA6E-9946-4B1D-9B40-C02D413DA5B6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{C0E4A078-B33C-4595-8DA7-25B72F24D9D7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{C0E4A078-B33C-4595-8DA7-25B72F24D9D7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -10,9 +10,7 @@ namespace CodeChallenge1Lib
         {
             string allLowerCase = str.ToLower();
             string checkStr = Regex.Replace(allLowerCase, @"[^0-9a-zA-Z]+", "");
-
             int strLength = checkStr.Length;
-
 
             for (int i = 0; i < strLength / 2; i++)
             { 

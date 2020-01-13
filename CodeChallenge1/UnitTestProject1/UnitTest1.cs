@@ -25,7 +25,7 @@ namespace CodeChallenge1Test
             string strFalse2 = "123abccba123";
 
             Assert.AreEqual(false, codeChallenge.IsPalindrome(strFalse1));
-            Assert.AreEqual(false, codeChallenge.IsPalindrome(strFalse1));
+            Assert.AreEqual(false, codeChallenge.IsPalindrome(strFalse2));
 
         }
     }
